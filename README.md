@@ -9,3 +9,6 @@ Validates the Event Log sizes and that they are configured to overwrite old even
 
 ### Firewall Checks
 Confirms all 3 firewall profiles are enabled.
+
+### Example Output
+![alt text](https://github.com/nzjoshellis/Audit-ServerSecurityConfig/blob/master/ScriptOutput.JPG)
